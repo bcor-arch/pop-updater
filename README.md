@@ -17,7 +17,7 @@ This script is designed to automatically update your Linux-based system, with a 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/automatic-linux-update.git
+   git clone https://github.com/bcor-arch/pop-update.git
    ```
 2. Navigate to the script directory:
    ```bash

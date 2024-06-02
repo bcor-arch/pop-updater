@@ -1,4 +1,6 @@
-# Automatic Linux Update
+# Automatic Linux Updat
+
+![_5230c455-6cd2-4ecb-8664-a473e54794f4](https://github.com/bcor-arch/pop-updater/assets/171504632/cf39abc8-0edf-409d-8436-ddb08d574b7d)
 
 ## Description
 This script is designed to automatically update your Linux-based system, with a particular focus on POP_OS! It streamlines the update process by executing several essential maintenance tasks in one go.
